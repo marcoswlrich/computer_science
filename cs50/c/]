@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+  char name;
+
+  printf("Digite seu nome: ");
+  scanf("%s", &name);
+
+  printf("Seu nome: %s\n", name)
+
+      return (0)
+}
